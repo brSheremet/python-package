@@ -125,7 +125,7 @@ requires-dist = [{ name = "ruff", specifier = ">=0.8.4" }]
 dev = [
     { name = "pytest", specifier = ">=8.3.3" },
     { name = "pytest-cov", specifier = ">=5.0.0" },
-    { name = "ruff", specifier = ">=0.7.1" },
+    { name = "ruff", specifier = ">=0.8.4" },
 ]
 
 [[package]]
