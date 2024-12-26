@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Example application"
 readme = "README.md"
 dependencies = [
+    "more-itertools>=10.5.0",
     "ruff>=0.8.4",
 ]
 
